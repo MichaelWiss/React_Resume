@@ -7,7 +7,7 @@ class App extends React.Component {
 		return (
         <div className="masthead">
         <div className="contact">
-         <Header  
+         <Header>  
 
 
 			);
